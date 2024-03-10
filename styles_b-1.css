@@ -1,0 +1,79 @@
+
+
+header,
+footer {
+    display: flex;
+}
+
+.side-boarder {
+    background-color: brown;
+    width: 18.5%;
+}
+
+.logo {
+    background-color: rgb(211, 211, 211);
+    height: 100px;
+    width: 240px;
+}
+
+.dropdown {
+    background-color: rgb(189, 186, 186);
+    height: 100px;
+    width: 960px;
+}
+
+.slider {
+    background-color: rgb(160, 160, 160);
+    height: 300px;
+    width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.c {
+    display: flex;
+    justify-content: center;
+}
+
+.c1 {
+    background-color: aqua;
+    height: 200px;
+    width: 399px;
+}
+
+.c2 {
+    background-color: salmon;
+    height: 200px;
+    width: 399px;
+}
+
+.c3 {
+    background-color: bisque;
+    height: 200px;
+    width: 399px;
+}
+
+footer {
+    margin: 0 auto 0 auto;
+}
+
+.footer1 {
+    background-color: aquamarine;
+   height: 100px;
+   width: 15%; 
+}
+
+.footer2 {
+    height: 100px;
+    width: 48%;
+}
+
+.footer2_1 { 
+    background-color: beige;
+    height: 50%;
+}
+
+.footer2_2 {
+    background-color: rgb(68, 161, 161);
+    height: 50%;
+}
